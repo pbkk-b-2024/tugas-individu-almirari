@@ -3,6 +3,7 @@
 @section('content')
 <div class="">
     <!-- Jumbotron -->
+     <h1>TEST</h1>
     <section class="container-fluid px-0">
         <div class="jumbotron jumbotron-fluid text-white d-flex align-items-center" 
              style="background-image: url('img/vinyl-store.jpg'); height: 400px; background-size: cover; background-position: center;">
